@@ -1,0 +1,17 @@
+{
+  "name": "vue-press-blog",
+  "version": "1.0.0",
+  "description": "vuePress demo",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "Cui-y",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
